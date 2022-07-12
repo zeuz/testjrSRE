@@ -1,7 +1,7 @@
 # testjrSRE
 Test Junior SRE
 
-1.- instalar la aplicacion y correr, mandar capturas
+1.- instalar la aplicacion (requiere .net 4.8) y correr, mandar capturas
 
 2.- hacer pruebas de profiling en este endpoint:
 
