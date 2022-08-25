@@ -5,15 +5,15 @@ Test Junior SRE
 
 2.- hacer pruebas de profiling en este endpoint:
 
-    /Home/test?sid=1000
+    /Home/test?sid=2000
     
-    /Home/test?sid=1001
+    /Home/test?sid=2001
     
-    /Home/test?sid=1002
+    /Home/test?sid=2002
     
-    /Home/test?sid=1003
+    /Home/test?sid=2003
     
-    /Home/test?sid=1004
+    /Home/test?sid=2004
     
     
     
